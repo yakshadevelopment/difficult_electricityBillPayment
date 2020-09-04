@@ -1,0 +1,7 @@
+
+testBillAmountCalcultion=false
+testBillAmountCalcultion=true
+testBillAmountCalcultion=true
+testDiscountFineCalculation=true
+testDiscountFineCalculation=true
+testDiscountFineCalculation=true
