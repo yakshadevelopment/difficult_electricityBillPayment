@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="java9.diff.app2.BillServiceTest" time="0.057" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="java9.diff.app2.BillServiceTest" time="0.209" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -7,7 +7,7 @@
     <property name="file.encoding.pkg" value="sun.io"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="F:\IIHTHandsOn\Jav9App\app2\target\test-classes;F:\IIHTHandsOn\Jav9App\app2\target\classes;C:\Users\Administrator\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Administrator\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Administrator\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;"/>
+    <property name="java.class.path" value="C:\Users\Administrator\git\difficult_electricityBillPayment\app2\target\test-classes;C:\Users\Administrator\git\difficult_electricityBillPayment\app2\target\classes;C:\Users\Administrator\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Administrator\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Administrator\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -18,22 +18,22 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-9\bin"/>
-    <property name="sun.java.command" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire14070468644347602319\surefirebooter1265327225612173706.jar C:\Users\Administrator\AppData\Local\Temp\surefire14070468644347602319 2020-09-04T10-18-30_524-jvmRun1 surefire6144437040282622060tmp surefire_0329118191086115091tmp"/>
+    <property name="sun.java.command" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire18330390760895054739\surefirebooter5343004316887367902.jar C:\Users\Administrator\AppData\Local\Temp\surefire18330390760895054739 2020-09-08T16-06-06_937-jvmRun1 surefire8127118924554070614tmp surefire_06090204479769025193tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="F:\IIHTHandsOn\Jav9App\app2\target\test-classes;F:\IIHTHandsOn\Jav9App\app2\target\classes;C:\Users\Administrator\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Administrator\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Administrator\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\Administrator\git\difficult_electricityBillPayment\app2\target\test-classes;C:\Users\Administrator\git\difficult_electricityBillPayment\app2\target\classes;C:\Users\Administrator\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Administrator\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Administrator\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Administrator"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-9"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="F:\IIHTHandsOn\Jav9App\app2"/>
+    <property name="basedir" value="C:\Users\Administrator\git\difficult_electricityBillPayment\app2"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire14070468644347602319\surefirebooter1265327225612173706.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire18330390760895054739\surefirebooter5343004316887367902.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="9+181"/>
@@ -47,7 +47,7 @@
     <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
     <property name="java.version" value="9"/>
-    <property name="user.dir" value="F:\IIHTHandsOn\Jav9App\app2"/>
+    <property name="user.dir" value="C:\Users\Administrator\git\difficult_electricityBillPayment\app2"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
@@ -59,6 +59,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="53.0"/>
   </properties>
-  <testcase name="testBillAmountCalcultion" classname="java9.diff.app2.BillServiceTest" time="0.016"/>
-  <testcase name="testDiscountFineCalculation" classname="java9.diff.app2.BillServiceTest" time="0.033"/>
+  <testcase name="testBillAmountCalcultion" classname="java9.diff.app2.BillServiceTest" time="0.107"/>
+  <testcase name="testDiscountFineCalculation" classname="java9.diff.app2.BillServiceTest" time="0.034"/>
+  <testcase name="testExceptionConditon" classname="java9.diff.app2.BillServiceTest" time="0.018"/>
+  <testcase name="testBoundaryCondition" classname="java9.diff.app2.BillServiceTest" time="0.003"/>
 </testsuite>
